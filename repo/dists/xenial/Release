@@ -1,0 +1,37 @@
+Origin: downey.io
+Label: downey.io
+Codename: xenial
+Date: Wed, 01 May 2019 04:19:15 UTC
+Architectures: i386 amd64
+Components: main
+Description: test repo
+MD5Sum:
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-i386/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-i386/Packages.gz
+ 444ad85418a46237544a6f086fa2b640 93 main/binary-i386/Release
+ 99a84124c23a9e4e97f6ee9fa48dbfd3 505 main/binary-amd64/Packages
+ ebd2f276e2e82083c2cdc8054054675e 383 main/binary-amd64/Packages.gz
+ e7780e858ea2a3052dda62ca36ab0ddd 94 main/binary-amd64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/source/Sources
+ 7029066c27ac6f5ef18d660d5741979a 20 main/source/Sources.gz
+ 50de2b9cdf9f69046eccdcd90f59a14d 95 main/source/Release
+SHA1:
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-i386/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-i386/Packages.gz
+ 773666e43716a07c8b51686c61d43d4dfd372c6b 93 main/binary-i386/Release
+ d681577f1f0e2db6442ac59a8d0f38d22256152b 505 main/binary-amd64/Packages
+ 94947e41c916bb81be2a11cba6963ac8c8eb7383 383 main/binary-amd64/Packages.gz
+ 3957948ceee748168172c4f8719494a81654b4c9 94 main/binary-amd64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/source/Sources
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/source/Sources.gz
+ 394a96d6a5c0e7c0f448eed33c56e721547875df 95 main/source/Release
+SHA256:
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-i386/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-i386/Packages.gz
+ 2d2ff7e78ed9884e7b067efe0f5aa6d01cedbcaf4023760a9049259a7c194704 93 main/binary-i386/Release
+ ec91107da450c14a2a8836912ee9ac57cc1d525ef3b9769bfbc7c8ad3ad67a0f 505 main/binary-amd64/Packages
+ 6ed2480867f601817eff96e823d65ea00d8e8958248e8796028c844f7f648cb7 383 main/binary-amd64/Packages.gz
+ 45537b76358e36faf82944aebdee4887b554f1883a22b93022c7778b70120ed2 94 main/binary-amd64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/source/Sources
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/source/Sources.gz
+ a89e915bf07456ee77d2c7a029e25d90ef19afe859e04d3b6bfe1ddd39037e7f 95 main/source/Release
